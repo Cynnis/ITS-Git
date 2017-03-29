@@ -8,7 +8,7 @@
 
     <ul>
       <li>list 1</li>
-      <li></li>
+      <li>Max van den Boom</li>
       <li></li>
       <li></li>
       <li></li>
